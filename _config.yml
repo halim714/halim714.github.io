@@ -1,0 +1,10 @@
+title: halim714's Wiki
+description: Personal knowledge base powered by Miki Editor
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
